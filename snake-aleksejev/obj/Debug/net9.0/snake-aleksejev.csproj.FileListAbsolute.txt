@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\c#\snake-aleksejev\bin\Debug\net9.0\snake-aleksejev.exe
+C:\Users\opilane\source\repos\c#\snake-aleksejev\bin\Debug\net9.0\snake-aleksejev.deps.json
+C:\Users\opilane\source\repos\c#\snake-aleksejev\bin\Debug\net9.0\snake-aleksejev.runtimeconfig.json
+C:\Users\opilane\source\repos\c#\snake-aleksejev\bin\Debug\net9.0\snake-aleksejev.dll
+C:\Users\opilane\source\repos\c#\snake-aleksejev\bin\Debug\net9.0\snake-aleksejev.pdb
+C:\Users\opilane\source\repos\c#\snake-aleksejev\obj\Debug\net9.0\snake-aleksejev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\c#\snake-aleksejev\obj\Debug\net9.0\snake-aleksejev.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\c#\snake-aleksejev\obj\Debug\net9.0\snake-aleksejev.AssemblyInfo.cs
+C:\Users\opilane\source\repos\c#\snake-aleksejev\obj\Debug\net9.0\snake-aleksejev.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\c#\snake-aleksejev\obj\Debug\net9.0\snake-aleksejev.sourcelink.json
+C:\Users\opilane\source\repos\c#\snake-aleksejev\obj\Debug\net9.0\snake-aleksejev.dll
+C:\Users\opilane\source\repos\c#\snake-aleksejev\obj\Debug\net9.0\refint\snake-aleksejev.dll
+C:\Users\opilane\source\repos\c#\snake-aleksejev\obj\Debug\net9.0\snake-aleksejev.pdb
+C:\Users\opilane\source\repos\c#\snake-aleksejev\obj\Debug\net9.0\snake-aleksejev.genruntimeconfig.cache
+C:\Users\opilane\source\repos\c#\snake-aleksejev\obj\Debug\net9.0\ref\snake-aleksejev.dll
